@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{43862BDC-650E-B43F-0C9C-B7C69F1337EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../GDD211/211/index.htm">
+    <Files>
+      <File FileName="../../lab 2/Lab2_Project/Lab2Build/index.html" Line="17" Column="14" />
+      <File FileName="../../GDD211/211/index.htm" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9a1bf69c-96c3-4637-af32-4046e15ce624" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
